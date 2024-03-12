@@ -1,2 +1,4 @@
 # CSARCH2-Exhibit-Documentation
-Documentation for the computer components exhibit in CSARCH2
+**Members:** Latasha Harwani, Mezen Lababidi, Enrique Lejano, Patrick Leonida, Krizchelle Wong
+**Theme:** Audio playback devices
+**Link to exhibit video:** https://www.youtube.com/watch?v=sDstOq5sdRU
